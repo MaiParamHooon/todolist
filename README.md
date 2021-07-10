@@ -1,6 +1,6 @@
 # Node.js
 
-This is a Blog Website.
+This is a todolist
 
 ### Usage
 
@@ -10,7 +10,7 @@ $ npm install
 
 ```sh
 $ node app.js
-# Visit http://localhost:5000
+# Visit http://localhost:3000
 ```
 
 ### MongoDB
